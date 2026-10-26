@@ -4,3 +4,9 @@
 // - name (string)
 // - taskDescription (string, the riddle text shown to the player)
 // - correctAnswer (string)
+export default {
+  id: 3,
+  name: "Classic Riddle",
+  taskDescription: "What has keys but can't open locks?",
+  correctAnswer: "piano"
+};
